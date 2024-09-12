@@ -62,7 +62,7 @@ const TodoList = () => {
 
   return (
     <div className="container mt-5">
-      <h2 className="text-center mb-4">React To-Do List</h2>
+      <h2 className="text-center mb-4 fw-bold">To-Do List</h2>
       <Form className="mb-4">
         <Form.Control
           type="text"
